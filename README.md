@@ -46,9 +46,7 @@ npm install
 
 # Start the development server
 npm start
-
-
----
+```
 
 ## 🤝 Contributing
 Contributions are welcome
